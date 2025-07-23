@@ -88,8 +88,12 @@ The project generates several key visualizations to present its findings, includ
 
 🧑‍💻 Contributors
 Hrishit Madhavi
+
 Hrishikesh Iyer
+
 Rujuta Kulkarni
+
 Ayush Patil
+
 
 Project guided by Dr. Prashant Lahane.
